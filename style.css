@@ -28,11 +28,11 @@ p {
 
 }
 .bgimg-1 {
-  background-image: url("images/img1.jpg");
+  background-image: url("images/img1.png");
   min-height: 100%;
 }
 .bgimg-2 {
-  background-image: url("images/img2.jpg");
+  background-image: url("images/img2.png");
   min-height: 100%;
 }
 
