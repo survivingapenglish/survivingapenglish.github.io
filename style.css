@@ -11,6 +11,12 @@
     height: 800px;
     align-items: center;
 }
+iframe {
+    display: block;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+}
 body, html {
   height: 100%;
   margin: 0;
